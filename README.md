@@ -4,7 +4,7 @@ Analysis and prediction of bank marketing data from Kaggle
 https://www.kaggle.com/sonujha090/bank-marketing/activity
 
 ## How to Contribute
-- Build the environment with `conda env create --file environment.yaml `
+- Build the environment with `conda env create --file environment.yaml --force`
 - Activate the environment with `conda activate bank-analysis`
 - Launch either `jupyter lab` or `jupyter notebook`
 
