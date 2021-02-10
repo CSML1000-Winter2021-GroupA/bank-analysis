@@ -43,6 +43,7 @@ dependencies:
   - ipykernel=5.4.2
   - ipython=7.19.0
   - ipython_genutils=0.2.0
+  - ipywidgets=7.6.3
   - jedi=0.17.2
   - jinja2=2.11.2
   - joblib=1.0.0
@@ -54,6 +55,7 @@ dependencies:
   - jupyterlab=2.1.0
   - jupyterlab_pygments=0.1.2
   - jupyterlab_server=1.0.9
+  - jupyterlab_widgets=1.0.0
   - kealib=1.4.7
   - krb5=1.16.4
   - libboost=1.67.0
@@ -150,6 +152,7 @@ dependencies:
   - wcwidth=0.2.5
   - webencodings=0.5.1
   - wheel=0.36.2
+  - widgetsnbextension=3.5.1
   - wincertstore=0.2
   - winpty=0.4.3
   - xerces-c=3.2.3

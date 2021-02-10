@@ -22,6 +22,7 @@ importlib_metadata==3.4.0
 ipykernel==5.4.2
 ipython==7.19.0
 ipython_genutils==0.2.0
+ipywidgets==7.6.3
 jedi==0.17.2
 jinja2==2.11.2
 joblib==1.0.0
@@ -33,6 +34,7 @@ jupyter_server==1.2.3
 jupyterlab==2.1.0
 jupyterlab_pygments==0.1.2
 jupyterlab_server==1.0.9
+jupyterlab_widgets==1.0.0
 markupsafe==1.1.1
 matplotlib==3.3.2
 mistune==0.8.4
@@ -77,4 +79,5 @@ voila-vuetify==0.5.1
 wcwidth==0.2.5
 webencodings==0.5.1
 wheel==0.36.2
+widgetsnbextension==3.5.1
 zipp==3.4.0
